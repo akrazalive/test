@@ -1,12 +1,12 @@
 <?php
 
-$mysqlHost     = 'localhost';
-$mysqlUsername = 'wpcitydbuser';
-$mysqlPassword = 'wpcitydbpassword';
-$mysqlDatabase = 'TrojanHorse';
 
-$dbdsn = "mysql:host=$mysqlHost;dbname=$mysqlDatabase";
+echo "Hi there i am going ot "
 
-$myHashKey = "8c278cfb4784588efd29effc613e5983";
+// First Git Commit for gitrename2
+echo "Asif Khan"
 
-// Hash of word codeplayer
+echo "I am second Commit" ;
+
+
+?>
