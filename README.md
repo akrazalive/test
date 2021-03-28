@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Address Auto Complete
 
 Improve the user-experience of your forms by adding auto-complete functionality to your address fields, powered by Google Maps. [Solodev](https://www.solodev.com/) has provided a turn-key form for you to use on your website or in your project.
@@ -87,3 +88,7 @@ The form includes the following third-party resources:
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript"></script>
 ```
+=======
+# wpcity
+Repository name is wpcity . It contains all my necessary stuff .
+>>>>>>> 73a7e1b09fca8636e5fd710c12018890111955fb
